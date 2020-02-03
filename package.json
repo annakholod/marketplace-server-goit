@@ -1,0 +1,24 @@
+{
+  "name": "marketplace-server-goit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "debug": "node --inspect index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annakholod/marketplace-server-goit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "morgan": "^1.9.1",
+    "nodemon": "^1.18.4"
+  },
+  "bugs": {
+    "url": "https://github.com/annakholod/marketplace-server-goit/issues"
+  },
+  "homepage": "https://github.com/annakholod/marketplace-server-goit#readme"
+}
